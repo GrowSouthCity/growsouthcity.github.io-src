@@ -1,0 +1,4 @@
+[submodule "growsouthcity.github.io"]
+	path = growsouthcity.github.io
+	url = git@github.com:GrowSouthCity/growsouthcity.github.io.git
+	branch = ghpages
