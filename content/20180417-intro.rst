@@ -13,4 +13,5 @@ Welcome! Recently some of our more conservative neighbors have become upset over
 
 If you haven't yet, please `sign our petition <https://www.change.org/p/karyl-matsumoto-help-us-build-homes-in-south-san-francisco>`_ to support more housing in South City or `read this opinion piece <https://www.smdailyjournal.com/opinion/guest_perspectives/in-defense-of-high-density-housing-near-south-city-bart/article_920a9eac-475a-11e8-bc6c-b33c11c3201f.html>`_ on why we need to build.
 
-.. image:: {filename}/images/2018-04-17-ssf-view.jpg
+.. image:: {filename}/images/20180417-ssf-view.jpg
+    :alt: View over South San Francisco from San Bruno Mountain
